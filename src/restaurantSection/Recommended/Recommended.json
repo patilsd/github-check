@@ -1,0 +1,205 @@
+[
+    {
+      "id": "128959995",
+      "name": "Paneer munchurian",
+      "description": "",
+      "price": 22000,
+      "imageId": "a5740f456ac817aafdaa268000584564",
+      "category": "Veg Starters"
+    },
+    {
+      "id": "128960002",
+      "name": "Paneer tikka",
+      "description": "Soft paneer cubes marinated in a seasoned masala and cooked in a tandoor.",
+      "price": 21000,
+      "imageId": "8f9cfaadda20593cfc63d577ffff63a9",
+      "category": "Veg Starters"
+    },
+    {
+      "id": "128960000",
+      "name": "Veg mushroom chilli",
+      "description": "",
+      "price": 19000,
+      "imageId": "48a64a4e3cf149063df4b237aec73c0e",
+      "category": "Veg Starters"
+    },
+    {
+      "id": "128959997",
+      "name": "Veg munchurian dry",
+      "description": "",
+      "price": 14000,
+      "imageId": "aeddbeeebc10885c41182d79238cc84c",
+      "category": "Veg Starters"
+    },
+    {
+      "id": "128959992",
+      "name": "Papad",
+      "description": "",
+      "price": 2500,
+      "imageId": "9233875f10de8718bd1a3d7ef646335e",
+      "category": "Veg Starters"
+    },
+  
+  
+  
+  
+  
+ 
+    {
+      "id": "87123069",
+      "name": "Sol Kadhi",
+      "description": "A Delicious And Refreshing Beverage That Is Perfect For Enjoying On A Hot Day. It Is Also A Healthy And Nutritious Drink That Can Be Enjoyed As Part Of A Balanced Diet.",
+      "price": 4500,
+      "imageId": "5c8894306a00fc8127e54edb55faa4b1",
+      "category": "Beverages"
+    },
+    {
+      "id": "100107790",
+      "name": "Coffee",
+      "description": "Get Your Caffeine Fix With A Classic Coffee Or A Bold Black Coffee.",
+      "price": 7000,
+      "imageId": "edbda453b99c0479607be357d546d753",
+      "category": "Beverages"
+    },
+    {
+      "id": "112060444",
+      "name": "Kesar Lassi",
+      "description": "Indulge In The Rich And Flavorful Kesar Lassi, Made With Saffron And Other Spices.",
+      "price": 14500,
+      "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/6/fc4b5313-5416-4624-880a-b928831e19b9_cf94b042-7cda-448a-997a-e15e8d411138.png",
+      "category": "Beverages"
+    },
+    {
+      "id": "87123075",
+      "name": "Chicken Malai Kabab",
+      "description": "Juicy Chicken Kebabs Seasoned With Fragrant Spices And Enriched With Creamy Cheese, Delivering A Symphony Of Textures And Flavors.",
+      "price": 54500,
+      "imageId": "5e410d73fbca09037920298982f7a958",
+      "category": "Tandoori Non Veg Starters"
+    },
+  
+  
+  
+  
+ 
+    {
+      "id": "90817277",
+      "name": "Veg Biryani",
+      "description": "",
+      "price": 14900,
+      "imageId": "820b2b3279d96ab832429f0035f7bc9b",
+      "category": "Biryani"
+    },
+    {
+      "id": "3766435",
+      "name": "Veg Hakka Noodles",
+      "description": "",
+      "price": 14900,
+      "imageId": "8bac1be51d613759ab2425e935be6a08",
+      "category": "Noodles"
+    },
+    {
+      "id": "3766560",
+      "name": "Dal Khichadi",
+      "description": "",
+      "price": 14900,
+      "imageId": "d88b9283157fa10b851521cd15c253a1",
+      "category": "Rice"
+    },
+    {
+      "id": "90541603",
+      "name": "Dal Khichadi Tadka",
+      "description": "",
+      "price": 23900,
+      "imageId": "bc1c5174d52d69941663d99ceb9dcffb",
+      "category": "Rice"
+    },
+    {
+      "id": "3766566",
+      "name": "Steam Rice",
+      "description": "",
+      "price": 17500,
+      "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/21/d57d5ce7-a125-4231-91cd-dcc7b5fdc96d_57d76c1e-1be3-417d-828b-aec29ebfebc3.JPG",
+      "category": "Rice"
+    },
+    {
+      "id": "90817282",
+      "name": "Veg Combination Schezwan (Rice + Noodles)",
+      "description": "",
+      "price": 22500,
+      "imageId": "zyuwnys1vgp41ozemgq0",
+      "category": "Fried Rice"
+    },
+  
+  
+  
+ 
+    {
+      "id": "159036834",
+      "name": "Mini Waffle Box of 4 - Premium Assorted",
+      "description": "Experience indulgence at its finest with our newly launched Premium Mini Waffle Box of 4. Get your favourites in one box: Blueberry Cheesecake + Lotus Biscoff Cheesecake + KitKat + Belgian Milk Chocolate.",
+      "price": 36500,
+      "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/12/26/fddbd738-e498-4ec6-85ef-d8b1b8730576_83c5f055-ca05-44d6-9004-dac5ed66550e.png",
+      "category": "Newly Launched"
+    },
+    {
+      "id": "159036836",
+      "name": "Mini Waffle Box of 6 - Premium Assorted",
+      "description": "Devour the ultimate indulgence with our newly launched Premium Mini Waffle Box of 6. Includes Blueberry Cheesecake + Strawberry Cheesecake + Red Velvet + Berry Red Velvet + Lotus Biscoff + Kiki and Oreo.",
+      "price": 53000,
+      "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/12/26/46a552cb-20b1-478b-80cc-ab4c74758041_0c54959d-63b2-4258-a777-5450148a72ed.png",
+      "category": "Newly Launched"
+    },
+    {
+      "id": "123680419",
+      "name": "Best Of The Best",
+      "description": "Choose any 5 best-selling Waffles for a flat price! Options: Naked Nutella, Triple Chocolate, Belgian Chocolate Milk, Belgian Chocolate Dark, KitKat, or Red Velvet.",
+      "price": 66000,
+      "imageId": "fc529e8c5a543ceb729d7786d1b01858",
+      "category": "Offers & Value Deals"
+    },
+  
+  
+ 
+    {
+      "id": "124282530",
+      "name": "Exotica Veggie Garlic Bread",
+      "description": "Serves 1 | Hut's signature Garlic Bread topped with spiced exotic veggies and a flavourful dressing (449 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+      "price": 15900,
+      "imageId": "e4f730c3f48f82fce15895dacf3e9081",
+      "category": "Flat Menu @99"
+    },
+    {
+      "id": "135775223",
+      "name": "Loaded Bread Stix",
+      "description": "Serves 1 | Freshly baked bread sticks, topped with a flavourful dressing & seasoned with herbs (320 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+      "price": 16900,
+      "imageId": "o0zibtrbtyjwznptrsgy",
+      "category": "Flat Menu @99"
+    },
+    {
+      "id": "124282338",
+      "name": "Garlic Bread Spicy Supreme",
+      "description": "Serves 1 | Garlic bread topped with 100% mozzarella cheese, onion & green chillies (346 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+      "price": 16900,
+      "imageId": "m8ecjvtqcjtnt31uvobl",
+      "category": "Flat Menu @99"
+    },
+    {
+      "id": "124282531",
+      "name": "Masala Keema Garlic Bread",
+      "description": "Serves 1 | Hut's signature Garlic Bread topped with chicken keema masala, onion and green chilli & a flavourful dressing. A must try! (442 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+      "price": 18900,
+      "imageId": "a8288101773dde9baf1e1b2d3228dbf8",
+      "category": "Flat Menu @159"
+    },
+    {
+      "id": "129792720",
+      "name": "Corn & Cheese - Personal",
+      "description": "Serves 1 | A combination of juicy Sweet Corn & 100% mozzarella cheese with flavourful signature pan sauce. (PAN Per-320Kcal/100g)",
+      "price": 21900,
+      "imageId": "ckbnw98n6tffy50wvuzm",
+      "category": "Flat Menu @159"
+    }
+  
+]

@@ -7,6 +7,7 @@ import ProfilePage from './components/ProfilePage/ProfilePage';
 import LoginForm from './components/LoginForm/LoginForm';
 import CartComponent from './restaurantSection/Navbar/CartComponent';
 import { CartProvider } from './restaurantSection/Navbar/CartContext';
+import Recommended from './restaurantSection/Recommended/Recommended'
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
           <Route path="/signup" element={<SignUpForm />} />
           <Route path="/login" element={<LoginForm />} />
           <Route path="/profile" element={<ProfilePage />} />
+          <Route path="/restaurant/:id" element={<Recommended />} />
         </Routes>
       </Router>
     </CartProvider>
