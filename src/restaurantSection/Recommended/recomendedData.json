@@ -1,0 +1,37 @@
+[
+    {
+      "card": {
+        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+        "info": {
+          "id": "153338675",
+          "name": "Peppy Paneer Cheese Burst",
+          "category": "Cheese Burst - 3 New Flavours",
+          "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Flavorful trio of juicy paneer, crisp capsicum & spicy red paprika",
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/17/a85a5e4f-7a9a-4eb6-b491-dab24001e15c_b2d956ee-4518-4491-8c5a-99eab6db298e.jpg",
+          "inStock": 1,
+          "isVeg": 1,
+          "variantsV2": {
+            "variantGroups": [
+              {
+                "groupId": "49623736",
+                "name": "Crust",
+                "variations": [
+                  { "name": "Cheese Burst", "id": "155686964", "isVeg": 1 },
+                  { "name": "Hot n Fiery Cheese Burst", "id": "155686966", "isVeg": 1 }
+                ]
+              },
+              {
+                "groupId": "49623738",
+                "name": "Size",
+                "variations": [
+                  { "name": "Regular", "id": "155686971", "isVeg": 1 },
+                  { "name": "Medium", "id": "155686972", "isVeg": 1 }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+  
